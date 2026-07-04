@@ -10,7 +10,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/Resume.pdf)
 
-# About
+# About — Xiaowei Hua
 
 - 🔭 CS undergrad at **Chongqing University (CQU)**, Class of 2023, graduating 2027.
 - 🔭 Interned at **[Tencent / TRS Recommendation Platform](https://github.com/Tencent)** as a vector DB engineer — Faiss GPU search, CUDA VMM, real-time upsert; ~13× QPS gain, P99 latency from seconds to sub-100ms at top-k=2048.
