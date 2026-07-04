@@ -8,6 +8,8 @@
 >"Stay hungry, stay foolish." — Steve Jobs
 
 
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](./Resume.pdf)
+
 # About
 
 - 🔭 CS undergrad at **Chongqing University (CQU)**, Class of 2023, graduating 2027.
