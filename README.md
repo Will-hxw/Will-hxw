@@ -10,7 +10,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-xiaoweihuacqu%40gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=xiaoweihuacqu@gmail.com)
-[![Website](https://img.shields.io/badge/Website-xiaoweihua.cn-green?style=flat&logo=safari)](https://xiaoweihua.cn)
+[![Blog](https://img.shields.io/badge/Website-xiaoweihua.cn-green?style=flat&logo=safari)](https://xiaoweihua.cn)
 
 # About — Xiaowei Hua
 
