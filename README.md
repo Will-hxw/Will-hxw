@@ -17,7 +17,7 @@
 - 🔭 CS undergrad at **Chongqing University (CQU)**, Class of 2023, graduating 2027.
 - 🔭 Interned at **[Tencent / TRS Recommendation Platform](https://github.com/Tencent)** as a vector DB engineer — Faiss GPU search, CUDA VMM, real-time upsert; ~13× QPS gain, P99 latency from seconds to sub-100ms at top-k=2048.
 - 🔭 Research training in **NeRF / 3D Gaussian Splatting** — reproduced the COLMAP→3DGS pipeline across representative works (NeRF, Instant-NGP, Mip-NeRF, 3DGS, SuGaR, 2DGS), focused on geometric instability under sparse views.
-- 🔭 First Prize, Jiangxi **High School Mathematics League (2022)** | Silver Medal, **ICPC Sichuan Invitational (2025)**.
+- 🔭 First Prize, Jiangxi **High School Mathematics League (2021)** | Silver Medal, **ACM-ICPC Sichuan Invitational (2025)**.
 - 🔭 Seeking **master's / PhD / RA** positions in **AI infrastructure, vector search, 3D vision, embodied intelligence, or HPC for AI** — planning to pursue a PhD.
 
 
