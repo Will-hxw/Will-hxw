@@ -8,7 +8,7 @@
 >"Stay hungry, stay foolish." — Steve Jobs
 
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/resume-cn.pdf)
 [![Email](https://img.shields.io/badge/Email-xiaoweihuacqu%40gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=xiaoweihuacqu@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-xiaoweihua.cn-green?style=flat&logo=safari)](https://xiaoweihua.cn)
 
