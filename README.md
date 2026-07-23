@@ -14,16 +14,15 @@
 
 # About — Xiaowei Hua
 
-- 🔭 CS undergrad at **Chongqing University (CQU)**, Class of 2023, graduating 2027.
-- 🔭 Interned at **[Tencent / TRS Recommendation Platform](https://github.com/Tencent)** as a vector DB engineer — Faiss GPU search, CUDA VMM, real-time upsert; ~13× QPS gain, P99 latency from seconds to sub-100ms at top-k=2048.
-- 🔭 Research training in **NeRF / 3D Gaussian Splatting** — reproduced the COLMAP→3DGS pipeline across representative works (NeRF, Instant-NGP, Mip-NeRF, 3DGS, SuGaR, 2DGS), focused on geometric instability under sparse views.
-- 🔭 First Prize, Jiangxi **High School Mathematics League (2021)** | Silver Medal, **ACM-ICPC Sichuan Invitational (2025)**.
-- 🔭 Seeking **master's / PhD / RA** positions in **AI infrastructure, vector search, 3D vision, embodied intelligence, or HPC for AI** — planning to pursue a PhD.
-
+- 🔭 Computer Science undergraduate at **Chongqing University (CQU)**, 2023–2027.
+- 🔭 Interned with **[Tencent’s TRS Recommendation Platform](https://github.com/Tencent)** as a vector database engineer — worked on GPU-accelerated vector search, online indexing, batch scheduling, and CUDA VMM–based memory management.
+- 🔭 Conducting research on **sparse-view 3D Gaussian Splatting** — focusing on cross-view geometric consistency, confidence-aware Gaussian optimization, and robust novel-view synthesis.
+- 🔭 Silver Medal, **International Collegiate Programming Contest (ICPC), 2025** | First Prize, Jiangxi **High School Mathematics League, 2021**.
+- 🔭 Seeking **master’s, PhD, or research assistant opportunities** in **AI infrastructure, agent systems, embodied intelligence, and 3D vision**, with the long-term goal of pursuing a PhD.
 
 # Projects
 
-- **[Synthos-QQ](https://github.com/Will-hxw/synthos-qq)** — Semantic analysis & agent system for QQ chat logs: data extraction, bge-m3 embedding, RAG retrieval, LLM summarization, streaming agent Q&A.
+- **[Synthos-QQ](https://github.com/Will-hxw/synthos-qq)** — An Agentic Retrieval system for fragmented instant-message histories, featuring query planning, hybrid retrieval, reranking, corrective retrieval, and hierarchical message–event–topic memory for traceable cross-session Q&A and topic tracking.
 - **[drawio-diagram-builder](https://github.com/Will-hxw/drawio-diagram-builder-skill)** — Coding agent skill for generating draw.io diagrams from natural language.
 
 
