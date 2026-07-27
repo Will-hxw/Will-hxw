@@ -19,7 +19,7 @@
 - 🔭 Project: Building **[QQLore](https://github.com/Will-hxw/QQLore)**, an Agentic Retrieval system for long-term IM data, integrating query planning, hybrid retrieval, reranking, corrective retrieval, and hierarchical memory.
 - 🔭 **Research Experience**: Conducting research on **sparse-view 3D Gaussian Splatting** — focusing on cross-view geometric consistency, confidence-aware Gaussian optimization, and robust novel-view synthesis.
 - 🔭 Silver Medal, **International Collegiate Programming Contest (ICPC), 2025** | First Prize, Jiangxi **High School Mathematics League, 2021**.
-🔭 **Research Interests**: LLM reasoning and post-training, AI/Agent infrastructure, and intelligent retrieval, with a focus on efficient training and inference, GPU/KV-cache scheduling, Agent runtime, and retrieval–memory–reasoning coordination.
+- 🔭 **Research Interests**: LLM reasoning and post-training, AI/Agent infrastructure, and intelligent retrieval, with a focus on efficient training and inference, GPU/KV-cache scheduling, Agent runtime, and retrieval–memory–reasoning coordination.
 - 🔭 Seeking master’s, **PhD**, or research assistant opportunities in **LLM reasoning and post-training, AI/Agent infrastructure, and intelligent retrieval**, with the long-term goal of pursuing a PhD.
 - 🔭 **Research Principles**: Build strong fundamentals, track the research frontier, develop ideas and insights from concrete problems, stay engaged with the community, and iterate through experiments.
 # Projects
