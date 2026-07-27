@@ -8,7 +8,7 @@
 >"Stay hungry, stay foolish." — Steve Jobs
 
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/resume-cn.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader)](https://raw.githubusercontent.com/Will-hxw/Will-hxw/main/华晓蔚-cv.pdf)
 [![Email](https://img.shields.io/badge/Email-xiaoweihuacqu%40gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=xiaoweihuacqu@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-xiaoweihua.cn-green?style=flat&logo=safari)](https://xiaoweihua.cn)
 
@@ -16,13 +16,15 @@
 
 - 🔭 Computer Science undergraduate at **Chongqing University (CQU)**, 2023–2027.
 - 🔭 Interned with **[Tencent’s TRS Recommendation Platform](https://github.com/Tencent)** as a vector database engineer — worked on GPU-accelerated vector search, online indexing, batch scheduling, and CUDA VMM–based memory management.
-- 🔭 Conducting research on **sparse-view 3D Gaussian Splatting** — focusing on cross-view geometric consistency, confidence-aware Gaussian optimization, and robust novel-view synthesis.
+- 🔭 Project: Building **[QQLore](https://github.com/Will-hxw/QQLore)**, an Agentic Retrieval system for long-term IM data, integrating query planning, hybrid retrieval, reranking, corrective retrieval, and hierarchical memory.
+- 🔭 **Research Experience**: Conducting research on **sparse-view 3D Gaussian Splatting** — focusing on cross-view geometric consistency, confidence-aware Gaussian optimization, and robust novel-view synthesis.
 - 🔭 Silver Medal, **International Collegiate Programming Contest (ICPC), 2025** | First Prize, Jiangxi **High School Mathematics League, 2021**.
-- 🔭 Seeking **master’s, PhD, or research assistant opportunities** in **AI infrastructure, agent systems, embodied intelligence, and 3D vision**, with the long-term goal of pursuing a PhD.
-
+🔭 **Research Interests**: LLM reasoning and post-training, AI/Agent infrastructure, and intelligent retrieval, with a focus on efficient training and inference, GPU/KV-cache scheduling, Agent runtime, and retrieval–memory–reasoning coordination.
+- 🔭 Seeking master’s, **PhD**, or research assistant opportunities in **LLM reasoning and post-training, AI/Agent infrastructure, and intelligent retrieval**, with the long-term goal of pursuing a PhD.
+- 🔭 **Research Principles**: Build strong fundamentals, track the research frontier, develop ideas and insights from concrete problems, stay engaged with the community, and iterate through experiments.
 # Projects
 
-- **[Synthos-QQ](https://github.com/Will-hxw/synthos-qq)** — An Agentic Retrieval system for fragmented instant-message histories, featuring query planning, hybrid retrieval, reranking, corrective retrieval, and hierarchical message–event–topic memory for traceable cross-session Q&A and topic tracking.
+- **[QQLore](https://github.com/Will-hxw/QQLore)** — An Agentic Retrieval system for fragmented instant-message histories, featuring query planning, hybrid retrieval, reranking, corrective retrieval, and hierarchical message–event–topic memory for traceable cross-session Q&A and topic tracking.
 - **[drawio-diagram-builder](https://github.com/Will-hxw/drawio-diagram-builder-skill)** — Coding agent skill for generating draw.io diagrams from natural language.
 
 
