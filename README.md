@@ -37,9 +37,15 @@
 
 # Blog
 
-- 2026.04 — [Function Calling vs. MCP](https://xiaoweihua.cn/articles/Agents/function_calling-mcp/?from=archive&tag=Agents): Comparing the two dominant paradigms for AI agent–tool interaction.
-- 2026.03 — [ReAct Orchestration](https://xiaoweihua.cn/articles/Agents/ReAct/?from=archive&tag=Agents): How Reasoning + Acting powers agent orchestration.
-- 2026.03 — [My Methodology](https://xiaoweihua.cn/archive/#%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA): How I approach learning and research.
+- [2026.04 — My Methodology](https://xiaoweihua.cn/archive/#%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA): How I approach learning, research, and building technical understanding from fundamentals.
+
+- [2025.04 — LLM Architecture & Reasoning](https://xiaoweihua.cn/archive/#大语言模型架构与推理): Exploring the foundations of large language models, including Transformer architecture, pre-training paradigms, inference optimization, reasoning mechanisms, and scaling laws.
+
+- [2025.06 — LLM Post-Training](https://xiaoweihua.cn/archive/#大语言模型后训练): Studying alignment and capability enhancement techniques after pre-training, including instruction tuning, RLHF, RLAIF, reasoning-oriented training, and efficient adaptation methods.
+
+- [2025.08 — AI Infra](https://xiaoweihua.cn/archive/#AI-Infra): Understanding the systems behind modern AI, including GPU computing, memory management, distributed training, inference optimization, KV Cache, batching, and large-scale retrieval infrastructure.
+
+- [2025.10 — Agent Systems](https://xiaoweihua.cn/archive/#Agent): Exploring AI agent architectures, including reasoning and acting, tool use, agent orchestration, memory systems, retrieval-augmented generation, and autonomous workflows.
 
 
 # GitHub Stats
